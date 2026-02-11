@@ -88,15 +88,53 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-double-story.xhtml" id="a-double-story.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/cross-purposes.xhtml" id="cross-purposes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/far-above-rubies.xhtml" id="far-above-rubies.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/port-in-a-storm.xhtml" id="port-in-a-storm.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/stephen-archer.xhtml" id="stephen-archer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-broken-swords.xhtml" id="the-broken-swords.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-butchers-bills.xhtml" id="the-butchers-bills.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-carasoyn.xhtml" id="the-carasoyn.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-castle.xhtml" id="the-castle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-cruel-painter.xhtml" id="the-cruel-painter.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-giants-heart.xhtml" id="the-giants-heart.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-gifts-of-the-child-christ.xhtml" id="the-gifts-of-the-child-christ.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-golden-key.xhtml" id="the-golden-key.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-gray-wolf.xhtml" id="the-gray-wolf.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-history-of-photogen-and-nycteris.xhtml" id="the-history-of-photogen-and-nycteris.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-light-princess.xhtml" id="the-light-princess.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-shadows.xhtml" id="the-shadows.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-wow-o-rivven.xhtml" id="the-wow-o-rivven.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/uncle-cornelius-his-story.xhtml" id="uncle-cornelius-his-story.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="a-double-story.xhtml"/>
+		<itemref idref="cross-purposes.xhtml"/>
+		<itemref idref="far-above-rubies.xhtml"/>
+		<itemref idref="port-in-a-storm.xhtml"/>
+		<itemref idref="stephen-archer.xhtml"/>
+		<itemref idref="the-broken-swords.xhtml"/>
+		<itemref idref="the-butchers-bills.xhtml"/>
+		<itemref idref="the-carasoyn.xhtml"/>
+		<itemref idref="the-castle.xhtml"/>
+		<itemref idref="the-cruel-painter.xhtml"/>
+		<itemref idref="the-giants-heart.xhtml"/>
+		<itemref idref="the-gifts-of-the-child-christ.xhtml"/>
+		<itemref idref="the-golden-key.xhtml"/>
+		<itemref idref="the-gray-wolf.xhtml"/>
+		<itemref idref="the-history-of-photogen-and-nycteris.xhtml"/>
+		<itemref idref="the-light-princess.xhtml"/>
+		<itemref idref="the-shadows.xhtml"/>
+		<itemref idref="the-wow-o-rivven.xhtml"/>
+		<itemref idref="uncle-cornelius-his-story.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
