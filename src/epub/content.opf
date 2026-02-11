@@ -29,51 +29,156 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Children's stories, English</dc:subject>
+		<dc:subject id="subject-2">Christian fiction</dc:subject>
+		<dc:subject id="subject-3">Fairy tales</dc:subject>
+		<dc:subject id="subject-4">Conduct of life -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-5">Fantasy fiction</dc:subject>
+		<dc:subject id="subject-6">Love stories</dc:subject>
+		<dc:subject id="subject-7">Short stories</dc:subject>
+		<dc:subject id="subject-8">Fairies -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-9">Fairy tales--England</dc:subject>
+		<dc:subject id="subject-10">Highlands (Scotland) -- Fiction</dc:subject>
+		<dc:subject id="subject-11">Princesses -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-12">Scotland -- Fiction</dc:subject>
+		<dc:subject id="subject-13">Fairy tales -- Great Britain</dc:subject>
+		<dc:subject id="subject-14">Kings and rulers -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-15">Parent and child -- Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">SUBJECT_1_LCSH_ID</meta>
+		<meta property="term" refines="#subject-1">sh85023798</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">SUBJECT_2_LCSH_ID</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh85025090</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85046925</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85046925</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85047114</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh85078595</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh85121813</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">sh2008103471</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">sh2008103476</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">sh2008105497</meta>
+		<meta property="authority" refines="#subject-11">LCSH</meta>
+		<meta property="term" refines="#subject-11">sh2008109767</meta>
+		<meta property="authority" refines="#subject-12">LCSH</meta>
+		<meta property="term" refines="#subject-12">sh2008111215</meta>
+		<meta property="authority" refines="#subject-13">LCSH</meta>
+		<meta property="term" refines="#subject-13">sh2009124058</meta>
+		<meta property="authority" refines="#subject-14">LCSH</meta>
+		<meta property="term" refines="#subject-14">sh2009128067</meta>
+		<meta property="authority" refines="#subject-15">LCSH</meta>
+		<meta property="term" refines="#subject-15">sh2010105088</meta>
+		<meta property="se:is-a-collection">true</meta>
+		<meta property="se:subject">Children’s</meta>
+		<meta property="se:subject">Fantasy</meta>
+		<meta property="se:subject">Horror</meta>
+		<meta property="se:subject">Shorts</meta>
+		<meta property="se:subject">Spirituality</meta>
+		<dc:description id="description">A collection of George MacDonald’s fairy tales, short stories, and novellas.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;George MacDonald&lt;/a&gt; is widely regarded as the grandfather of modern fantasy literature, a Scottish author and Christian minister whose imaginative scope laid the foundation for the genre. While he wrote many realistic novels depicting Scottish country life, his enduring legacy rests on his fairy tales and fantasy stories, which deeply influenced literary giants such as W. H. Auden, J. R. R. Tolkien, Madeleine L’Engle, and perhaps most notably, &lt;a href="https://standardebooks.org/ebooks/c-s-lewis"&gt;C. S. Lewis&lt;/a&gt;. Lewis famously wrote that he regarded MacDonald as his “master,” crediting MacDonald with “baptizing his imagination.”&lt;/p&gt;
+			&lt;p&gt;MacDonald’s writing is characterized by a distinctive blend of myth, theology, and the surreal. Unlike the rigid moralizing common in Victorian children’s literature, MacDonald believed that the imagination was a God-given faculty to be explored. His stories often operate on the logic of dreams, bypassing the intellect to speak directly to the subconscious.&lt;/p&gt;
+			&lt;p&gt;Ordered by first date of publication, this collection comprises George MacDonald’s complete body of short fiction. Included among these works is “Cross Purposes,” a whimsical fairy tale in which the Queen of Fairyland, weary of her well-behaved subjects, sends a graceful fairy and a mischievous goblin to bring mortal children to her court—an endeavour that leads to unexpected crossings of paths and enchanting misadventures. Also featured is “The Shadows,” a haunting and allegorical tale that personifies shadows as wise, sorrowful beings who accompany and instruct a lonely man, offering profound reflections on human existence, suffering, and redemption. Taken together, these stories provide a comprehensive view of a writer whose work remains a cornerstone of the fantastic.&lt;/p&gt;
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>TRANSCRIPTION_URL</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:language>en-GB</dc:language>
+		<!-- TRANSCRIPTIONS -->
+		<!-- A Double Story -->
+		<dc:source>https://www.gutenberg.org/ebooks/5676</dc:source>
+		<!-- The Portent and Other Stories -->
+		<!-- The Cruel Painter; The Castle; The Wow o’ Rivven; The Broken Swords;
+		The Gray Wolf; Uncle Cornelius His Story -->
+		<dc:source>https://www.gutenberg.org/ebooks/8913</dc:source>
+		<!-- Far Above Rubies -->
+		<dc:source>https://www.gutenberg.org/ebooks/8955</dc:source>
+		<!-- Stephen Archer, and Other Tales -->
+		<!-- The Gifts of the Child Christ; The History of Photogen and Nycteris;
+		The Butcher's Bills; Stephen Archer; Port in a Storm -->
+		<dc:source>https://www.gutenberg.org/ebooks/9191</dc:source>
+		<!-- The Light Princess and Other Fairy Stories -->
+		<!-- The Light Princess; The Giant's Heart; The Golden Key -->
+		<dc:source>https://www.gutenberg.org/ebooks/18811</dc:source>
+		<!-- Cross Purposes and The Shadows -->
+		<!-- The Shadows; Cross Purposes -->
+		<dc:source>https://www.gutenberg.org/ebooks/18859</dc:source>
+		<!-- The Carasoyn -->
+		<dc:source>https://www.george-macdonald.com/etexts/the_carasoyn.html</dc:source>
+		<!-- SCANS -->
+		<!-- A Double Story -->
+		<dc:source>https://archive.org/details/doublestory00macduoft</dc:source>
+		<!-- Far Above Rubies -->
+		<dc:source>https://archive.org/details/FarAboveRubies</dc:source>
+		<!-- Stephen Archer, and Other Tales -->
+		<!-- The Gifts of the Child Christ; The History of Photogen and Nycteris;
+		The Butcher's Bills; Stephen Archer; Port in a Storm -->
+		<dc:source>https://archive.org/details/stephenarcheroth00macd</dc:source>
+		<!-- Works of fancy and imagination Volume 8 -->
+		<!-- The Shadows -->
+		<dc:source>https://archive.org/details/worksoffancyimag08macduoft</dc:source>
+		<!-- Works of fancy and imagination Volume 9 -->
+		<!-- The Carasoyn; Cross Purposes -->
+		<dc:source>https://archive.org/details/worksoffancyimag09macduoft</dc:source>
+		<!-- The Light Princess and Other Fairy Stories -->
+		<!-- The Light Princess; The Giant's Heart; The Golden Key -->
+		<dc:source>https://catalog.hathitrust.org/Record/103397959</dc:source>
+		<!-- The Portent and Other Stories -->
+		<!-- The Cruel Painter; The Castle; The Wow o’ Rivven; The Broken Swords;
+		The Gray Wolf; Uncle Cornelius His Story -->
+		<dc:source>https://catalog.hathitrust.org/Record/006155842</dc:source>
+		<meta property="se:production-notes">The stories are ordered chronologically by publication date. “A Double Story” was also published under the titles “The Lost Princess” and “The Wise Woman.” “The History of Photogen and Nycteris” was also published under the titles “The Day Boy and Night Girl” and “The Romance of Photogen and Nycteris.”</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-macdonald_short-fiction</meta>
 		<dc:creator id="author">George MacDonald</dc:creator>
 		<meta property="file-as" refines="#author">MacDonald, George</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_MacDonald</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78096948</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Torsten Wasastjerna</dc:contributor>
+		<meta property="file-as" refines="#artist">Wasastjerna, Torsten</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Torsten_Wasastjerna</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr2004008092</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">Charles Aldarondo</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Aldarondo, Charles</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">TRANSCRIBER_2_URL</meta>
+		<dc:contributor id="transcriber-2">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
+		<dc:contributor id="transcriber-3">Jonathan Ingram</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Ingram, Jonathan</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-4">Sandra Brown</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Brown, Sandra</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Widger, David</meta>
+		<meta property="se:url.authority.nacoaf" refines="#transcriber-5">http://id.loc.gov/authorities/names/no2011017869</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">David Garcia</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Garcia, David</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-7">Beth Trapaga</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Trapaga, Beth</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-8">John Bechard</dc:contributor>
+		<meta property="file-as" refines="#transcriber-8">Bechard, John</meta>
+		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-9">Peter L. Edman</dc:contributor>
+		<meta property="file-as" refines="#transcriber-9">Edman, Peter L.</meta>
+		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-10">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-10">Distributed Proofreaders</meta>
+		<meta property="se:url.homepage" refines="#transcriber-10">https://www.pgdp.net/</meta>
+		<meta property="role" refines="#transcriber-10" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">C. B. Bowman</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Bowman, C. B.</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/cbbowman</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
